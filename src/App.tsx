@@ -175,7 +175,7 @@ export default function App() {
             className="relative lg:h-[600px] rounded-3xl overflow-hidden shadow-2xl bg-gray-200"
           >
             <img 
-              src="/hero-image.png" 
+              src="/Whisk_8024d735895d2e7ac1a44faa85a1d7f0dr.png" 
               alt="Consultor Especialista" 
               className="w-full h-full object-cover object-[center_25%]"
             />
